@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I had the privilege to teach several classes during my master's and Ph.D. degrees.
+I had the privilege to teach several classes during my master's and Ph.D. degrees. Here is a short list:
 
 ## University of Pittsburgh
 - CS 0441 Discrete Structures.
