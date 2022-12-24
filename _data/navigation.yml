@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Home"
+    url: /home/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Miscellaneous"
+    url: /miscellaneous/
+  
+  - title: "Resume"
+    url: /files/Diab_Resume.pdf
+  
