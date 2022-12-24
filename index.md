@@ -6,10 +6,9 @@ layout: archive
 author_profile: true
 redirect_from:
   - /home/
-  - /about.html
 ---
 
-This is where my bio goes.
+I am a student researcher at the Computer Science department in University of Pittsburgh. 
 
 ## Recent News
 List
