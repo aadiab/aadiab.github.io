@@ -5,6 +5,7 @@ permalink: /pages/publications.md
 author_profile: true
 ---
 
+{: #publications}
 ## Publications
 
 {% if author.googlescholar %}
