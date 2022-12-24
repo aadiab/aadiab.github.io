@@ -10,13 +10,13 @@ locale                   : "en-US"
 title                    : "Ahmad Diab"
 title_separator          : "-"
 name                     : &name "Ahmad Diab"
-description              : &description "personal description"
-url                      : https://diab.github.io
+description              : &description "Diab's personal website"
+url                      : https://aadiab.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "diab101/diab.github.io"
+repository               : "aadiab/aadiab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 200
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -31,21 +31,21 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  allowedFields          : #['name', 'email', 'url', 'message']
+  branch                 : #"gh-pages" # "master", "gh-pages"
   commitMessage          : 
   filename               : 
-  format                 : "yml"
-  moderation             : true
+  format                 : #"yml"
+  moderation             : #true
   path                   : 
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : #['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : #"md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : #"date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -91,7 +91,7 @@ author:
   researchgate     :  
   uri              :
   foursquare       :
-  github           : "https://github.com/diab101"
+  github           : "https://github.com/aadiab"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,6 +107,16 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "ahd23@pitt.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ahd23@pitt.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Ig6OwEsAAAAJ&hl=en&oi=ao"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aadiab"
 
 
 # Reading Files
