@@ -91,12 +91,12 @@ author:
   researchgate     :  
   uri              :
   foursquare       :
-  github           : "https://github.com/aadiab"
+  github           : "aadiab" #"https://github.com/aadiab"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ahmad-diab/"
+  linkedin         : "ahmad-diab" # "https://www.linkedin.com/in/ahmad-diab/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -107,16 +107,16 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "ahd23@pitt.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ahd23@pitt.edu"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=Ig6OwEsAAAAJ&hl=en&oi=ao"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aadiab"
+  # links:
+  #   - label: "ahd23@pitt.edu"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: "mailto:ahd23@pitt.edu"
+  #   - label: "Google Scholar"
+  #     icon: "fas fa-graduation-cap"
+  #     url: "https://scholar.google.com/citations?user=Ig6OwEsAAAAJ&hl=en&oi=ao"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/aadiab"
 
 
 # Reading Files

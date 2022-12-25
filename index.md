@@ -17,4 +17,4 @@ My research interests lie at the intersection of Machine Learning and Social Com
 ## Recent News
 **10-2022** I was invited to talk at CAH workshop at CMU.\
 **09-2022** I presented my work with CAH in Eradicate Hate Global Summit.\
-**05-2022** I joined Collaboratory Against Hate (CAH) as a Research Intern.\
+**05-2022** I joined Collaboratory Against Hate (CAH) as a Research Intern.
