@@ -19,4 +19,6 @@ For researchers in Machine Learning and NLP, accessability to hardware resources
 <img src="/images/beast.png">
 
 # Programming
-My 
+One of my proudest moment was during ACM-JCPC programming competition, 2013. During the 5-hour coding challenge, we were behind on scoreboard with no shot to compete for the top-tenand qualify for the regional. I was able to correctly submit 2 questions within the last 10 minutes, a time when the scoreboard freezes and submissions are not evaluated. My team rejoiced taking the third place and "last-minute submission" award (I am the one on the right).
+
+<img src="/images/ACM.jpeg">
