@@ -18,7 +18,7 @@ Ahmad Diab, Michael Yoder, Yu-Ru Lin\
 **Domain-robust VQA with diverse datasets and methods but no target labels**\
 Mingda Zhang, Tristan Maidment, Ahmad Diab, Adriana Kovashka, Rebecca Hwa\
 *CVPR. 2021*\
-<span>conference paper</span> [link](https://arxiv.org/abs/2103.15974v1) &middot [pdf](files/VQA.pdf)
+<span>conference paper</span> [link](https://arxiv.org/abs/2103.15974v1) &middot; [pdf](files/VQA.pdf)
 
 **Darkweb cyber threat intelligence mining**\
 John Robertson, Ahmad Diab, Ericsson Marin, Eric Nunes, Vivin Paliath, Jana Shakarian, Paulo Shakarian\
@@ -28,14 +28,14 @@ John Robertson, Ahmad Diab, Ericsson Marin, Eric Nunes, Vivin Paliath, Jana Shak
 **Product Offerings in Malicious Hacker Markets**\
 Ericsson Marin, Ahmad Diab, Paulo Shakarian\
 *IEEE International Conference on Intelligence and Security Informatics, ISI. 2016*\
-<span>conference paper</span> [link](https://arxiv.org/pdf/1607.07903.pdf) &middot [pdf](files/product_offering.pdf)
+<span>conference paper</span> [link](https://arxiv.org/pdf/1607.07903.pdf) &middot; [pdf](files/product_offering.pdf)
 
 **Darknet and Deepnet Mining for Proactive Cybersecurity Threat Intelligence**\
 Eric Nunes, Ahmad Diab, Andrew Gunn, Ericsson Marin , Vineet Mishra, Vivin Paliath, John Robertson, Jana Shakarian, Amanda Thart, Paulo Shakarian\
 *IEEE International Conference on Intelligence and Security Informatics: Cybersecurity and Big Data, ISI. 2016*\
-<span>conference paper</span> [link](https://arxiv.org/abs/1607.08583) &middot [pdf](files/darknet_mining.pdf)
+<span>conference paper</span> [link](https://arxiv.org/abs/1607.08583) &middot; [pdf](files/darknet_mining.pdf)
 
 **Darknet Mining and Game Theory for Enhanced Cyber Threat Intelligence**\
 John Robertson, Ahmad Diab, Ericsson Marin, Eric Nunes, Vivin Paliath, Jana Shakarian, Paulo Shakarian\
 *The Cyber Defense Review Journal. 2016*\
-<span>journal paper</span> [link](https://cyberdefensereview.army.mil/Portals/6/Documents/CDR%20Journal%20Articles/Darknet_Mining_and_Game_Theory_Robertson_et_al.pdf?ver=2018-08-01-090210-620) &middot [pdf](files/Game_Theory.pdf)
+<span>journal paper</span> [link](https://cyberdefensereview.army.mil/Portals/6/Documents/CDR%20Journal%20Articles/Darknet_Mining_and_Game_Theory_Robertson_et_al.pdf?ver=2018-08-01-090210-620) &middot; [pdf](files/Game_Theory.pdf)
