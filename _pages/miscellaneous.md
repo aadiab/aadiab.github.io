@@ -13,7 +13,7 @@ As a self-taught chess enthusiast who started playing late, I was overwhelmed wi
 
 
 # Languages
-I was always fascinated by languages as a way to connect with other cultures. This motivated me to learn basic German, Chinese, and Japanese. I can speak three languages; Arabic as a native language, English (I recently passed [Duolingo test](/files/duolingo.pdf) with a 145 score), and Spanish. I am currently working towards an intermediate proficiency certificate. My next step is to work on my Chinese as a fourth language. 
+I was always fascinated by languages as a way to connect with other cultures. This motivated me to learn basic German, Chinese, and Japanese. I can speak three languages; Arabic as a native language, English (I recently passed [Duolingo test](/files/duolingo.pdf) with a 145 score), and Spanish. I am currently working towards the Spanish Intermediate proficiency certificate. My next step is to work on my Chinese as a fourth language.
 
 
 # Personal Computing Machine
@@ -23,6 +23,6 @@ For researchers in Machine Learning and NLP, accessibility to hardware resources
 
 
 # Programming
-One of my proudest moments was during the ACM-JCPC programming competition, 2013. During the 5-hour coding challenge, we were behind on the scoreboard with no shot to compete for the top ten and qualify for the regional. I was able to correctly submit 2 questions within the last 10 minutes, a time when the scoreboard freezes and submissions are not evaluated. My team rejoiced to take third place and the "last-minute submission" award (I am the one on the right).
+One of my proudest moments was during the ACM-JCPC programming competition, 2013. During the 5-hour coding challenge, we were behind on the scoreboard with no shot to compete for the top ten and qualify for the regional. I was able to correctly submit 2 questions within the last 10 minutes, a time when the scoreboard freezes and submissions are not evaluated. My team rejoiced to take third place and the "last-minute submission" award.
 
 <img src="/images/ACM.jpeg">
