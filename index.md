@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ahmad Diab"
+title: ""
 excerpt: 
 layout: archive
 author_profile: true
