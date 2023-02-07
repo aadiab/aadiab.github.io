@@ -16,6 +16,8 @@ My research interests lie at the intersection of Machine Learning and Social Com
 
 
 ## Recent News
+**02-2023** *Our work "Online to Offline Propaganda" is under review at CySoc 2023.*\
+**01-2023** *Our work "White Supremacist Language" is under review at ACL 2023.*\
 **10-2022** *I was invited to talk at CAH workshop at CMU.*\
 **09-2022** *I presented my work with CAH in Eradicate Hate Global Summit.*\
 **05-2022** *I joined Collaboratory Against Hate (CAH) as a Research Intern.*
