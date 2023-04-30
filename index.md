@@ -16,6 +16,8 @@ My research interests lie at the intersection of Machine Learning and Social Com
 
 
 ## Recent News
+**04-2023** *Presenting at ACM The Web conference, [CySoc] (https://cy-soc.github.io/2023/) workshop 2023, Austin, Texas. See you there.* \
+**03-2023** *Our paper, "Online to Offline Crossover of White Supremacist Propaganda", was accepted.*\
 **02-2023** *Our work "Online to Offline Propaganda" is under review at CySoc 2023.*\
 **01-2023** *Our work "White Supremacist Language" is under review at ACL 2023.*\
 **10-2022** *I was invited to talk at CAH workshop at CMU.*\
