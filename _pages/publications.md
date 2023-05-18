@@ -10,6 +10,11 @@ Check out [my Google Scholar](https://scholar.google.com/citations?user=Ig6OwEsA
 
 {% include base_path %}
 
+**Online to Offline Crossover of White Supremacist Propaganda**\
+Ahmad Diab, Bolor Jagdagdorj, Lynnette Ng, Yu-Ru Lin, Michael Yoder\
+*Cyber Social Threats, The Web Conference. 2023*\
+<span>paper</span> [pdf](files/CySoc23.pdf)
+
 **The Spatiotemporal Reach of Hate Narratives**\
 Ahmad Diab, Michael Yoder, Yu-Ru Lin\
 *Eradicate Hate Global Summit. 2022*\
