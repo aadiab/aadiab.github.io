@@ -13,18 +13,15 @@ As a self-taught chess enthusiast who started playing late, I was overwhelmed wi
 <img src="/images/chess_win.png">
 
 <br/>
-
-# Languages
-I was always fascinated by languages as a way to connect with other cultures. This motivated me to learn basic German, Chinese, and Japanese. I can speak three languages; Arabic as a native language, English (I recently passed [Duolingo test](/files/duolingo.pdf) with a 145 score), and Spanish. I am currently working towards the Spanish Intermediate proficiency certificate. My next step is to work on my Chinese as a fourth language.
-
-<br/>
 <!---
+# Languages
+I was always fascinated by languages as a way to connect with other cultures. This motivated me to learn basic German, Chinese, and Japanese. I can speak three languages; Arabic as a native language, English (I recently passed [Duolingo test](/files/duolingo.pdf) with a 145 score), and Spanish. I am currently working towards the Spanish Intermediate proficiency certificate. My next step is to work on my Chinese as a fourth language.-->
+
+<!--
 # Personal Computing Machine
 For researchers in Machine Learning and NLP, accessibility to hardware resources is essential for learning and running experiments. Unfortunately, I didn't have access to such resources. I temporarily relied on google colab while building my low-budget powerful machine. The project lasted 5 months, during which I collected each part individually and built a machine able to run most deep-learning models. My practice enabled me to land an internship at the Collaboratory Against Hate research center.
 --
-<img src="/images/beast.png">
---
-<br/>
+img src="/images/beast.png"
 -->
 
 # Programming
