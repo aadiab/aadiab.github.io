@@ -91,7 +91,7 @@ author:
   researchgate     :  
   uri              :
   foursquare       :
-  github           : "aadiab" #"https://github.com/aadiab"
+  github           : #"aadiab" #"https://github.com/aadiab"
   google_plus      :
   keybase          :
   instagram        :
