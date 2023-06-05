@@ -49,5 +49,5 @@ Eric Nunes, **Ahmad Diab**, Andrew Gunn, Ericsson Marin , Vineet Mishra, Vivin P
 **Darknet Mining and Game Theory for Enhanced Cyber Threat Intelligence**\
 John Robertson, Ahmad Diab, Ericsson Marin, Eric Nunes, Vivin Paliath, Jana Shakarian, Paulo Shakarian\
 *The Cyber Defense Review Journal. 2016*\
-<span>journal paper</span> [link](https://cyberdefensereview.army.mil/Portals/6/Documents/CDR%20Journal%20Articles/Darknet_Mining_and_Game_Theory_Robertson_et_al.pdf?ver=2018-08-01-090210-620) &middot; [pdf](files/Game_Theory.pdf)
+journal paper [link](https://cyberdefensereview.army.mil/Portals/6/Documents/CDR%20Journal%20Articles/Darknet_Mining_and_Game_Theory_Robertson_et_al.pdf?ver=2018-08-01-090210-620) &middot; [pdf](files/Game_Theory.pdf)
 >
