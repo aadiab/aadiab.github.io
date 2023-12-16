@@ -8,7 +8,7 @@ redirect_from:
   - /home/
 ---
 
-I am a Ph.D. student researcher in the Computer Science department at the University of Pittsburgh. Prior to joining the program, I briefly worked at Amazon (Jordan) as a Software Development Engineer. I received my master's degree in Computer Engineering from Arizona State University, and my undergraduate degree in Computer Engineering from Jordan University of Science and Technology.
+I am a Ph.D. student researcher in the Computer Science department at the University of Pittsburgh, currently working with professor Yuru Lin at [PICSO] (https://picsolab.github.io/) lab. Prior to joining the program, I briefly worked at Amazon (Jordan) as a Software Development Engineer. I received my master's degree in Computer Engineering from Arizona State University, and my undergraduate degree in Computer Engineering from Jordan University of Science and Technology.
 
 I admire technicality in research, which comes from my passion for programming. I participated in several Hackathons and programming contests, such as ACM and IEEEXtreme, both nationally (Jordan) and regionally (Middle East). I am the recipient of the Singapore International Pre-Graduate Award (SIPGA) from A*STAR research, and the Royal Jordanian Court full scholarship for Undergraduates.
 
@@ -17,7 +17,7 @@ My research endeavors are situated at the crossroads of Machine Learning and Soc
 
 ## Recent News
 **Announcment** *I am currently seeking a summer internship for 2024*\
-**11-2023** *I passed my Comprehensive Exam and became a Ph.D. Candidate. The topic of my exam was "Ethical Consideration in CSS Research, from Human Labor to LLMs"*\
+**11-2023** *I passed my Comprehensive Exam and became a Ph.D. Candidate. The topic of my exam was "Ethical Considerations in CSS Research, from Human Labor to LLMs"*\
 **09-2023** *Our paper, "Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections", recieved positive R&R notes for ICWSM 24. The resubmission will be in January, 2024.*\
 **05-2023** *Our paper, "A Weakly Supervised Classifier and Dataset of White Supremacist Language", was accepted at IEEE ACL*\
 **04-2023** *Presenting at ACM The Web conference, [CySoc] (https://cy-soc.github.io/2023/) workshop 2023, Austin, Texas. See you there.* \
