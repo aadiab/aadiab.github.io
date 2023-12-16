@@ -12,7 +12,7 @@ I am a Ph.D. student researcher in the Computer Science department at the Univer
 
 I admire technicality in research, which comes from my passion for programming. I participated in several Hackathons and programming contests, such as ACM and IEEEXtreme, both nationally (Jordan) and regionally (Middle East). I am the recipient of the Singapore International Pre-Graduate Award (SIPGA) from A*STAR research, and the Royal Jordanian Court full scholarship for Undergraduates.
 
-My research interests lie at the intersection of Machine Learning and Social Computing. Broadly, my work has investigated various online social phenomena (i.e. malicious activities on dark web, COVID and Conspiracy Theories in social media). I am interested in investigating the use of Machine Learning, Network Science, and Natural Language Processing to expose bias, ensure fairness, and detect online misinformation. I am eager to utilize different modalities (i.e. text and images) in social sciences context.
+My research endeavors are situated at the crossroads of Machine Learning and Social Computing. My work explored diverse online social phenomena, including the examination of malicious activities on the dark web, investigating the interplay between online and offline hate content, and the intricate dynamics surrounding the spread and detection of conspiracy theories on platforms like Reddit. My primary focus centers on ensuring online information integrity by leveraging Network Science, Natural Language Processing, and Large Language Models to unveil biases, ensure fairness, and detect instances of misinformation.
 
 
 ## Recent News

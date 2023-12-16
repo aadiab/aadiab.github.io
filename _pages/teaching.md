@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I had the privilege to teach several classes during my master's and Ph.D. degrees. Here is a short list:
+I have had the privilege of teaching several classes throughout my master's and Ph.D. programs. While my primary focus lies in domains other than teaching, the experience has significantly enriched my understanding of fundamental Computer Science concepts, echoing the wisdom of Aristotle. The following is a short list of classes in which I served as a Teacher Assistant:
 
 ## University of Pittsburgh
 - CS 0441 Discrete Structures.
