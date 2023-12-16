@@ -8,7 +8,7 @@ redirect_from:
   - /home/
 ---
 
-I am a Ph.D. student researcher in the Computer Science department at the University of Pittsburgh, currently working with professor Yuru Lin at [PICSO] (https://picsolab.github.io/) lab. Prior to joining the program, I briefly worked at Amazon (Jordan) as a Software Development Engineer. I received my master's degree in Computer Engineering from Arizona State University, and my undergraduate degree in Computer Engineering from Jordan University of Science and Technology.
+I am a Ph.D. student researcher in the Computer Science department at the University of Pittsburgh, currently working with professor Yuru Lin at [PICSO](https://picsolab.github.io/) lab. Prior to joining the program, I briefly worked at Amazon (Jordan) as a Software Development Engineer. I received my master's degree in Computer Engineering from Arizona State University, and my undergraduate degree in Computer Engineering from Jordan University of Science and Technology.
 
 I admire technicality in research, which comes from my passion for programming. I participated in several Hackathons and programming contests, such as ACM and IEEEXtreme, both nationally (Jordan) and regionally (Middle East). I am the recipient of the Singapore International Pre-Graduate Award (SIPGA) from A*STAR research, and the Royal Jordanian Court full scholarship for Undergraduates.
 

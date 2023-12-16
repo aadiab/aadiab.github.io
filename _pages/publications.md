@@ -12,7 +12,7 @@ Check out [my Google Scholar](https://scholar.google.com/citations?user=Ig6OwEsA
 
 **Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections**\
 **Ahmad Diab**, Rr.Nefriana, Yu-Ru Lin\
-*International Conference of Web and Scoial Media, ICWSM. 2024 (R&R)*\
+*International Conference of Web and Scoial Media, ICWSM. 2024 (R&R)*
 
 **Online to Offline Crossover of White Supremacist Propaganda**\
 **Ahmad Diab**, Bolor Jagdagdorj, Lynnette Ng, Yu-Ru Lin, Michael Yoder\
