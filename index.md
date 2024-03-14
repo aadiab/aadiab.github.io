@@ -17,7 +17,7 @@ My research endeavors are situated at the crossroads of Machine Learning and Soc
 
 ## Recent News
 **Announcment** *I am currently seeking a summer internship for 2024*\
-**11-2023** *I passed my Comprehensive Exam and became a Ph.D. Candidate. The topic of my exam was "Ethical Considerations in CSS Research, from Human Labor to LLMs"*\
+**11-2023** *I passed my Comprehensive Exam. The topic of my exam was "Ethical Considerations in CSS Research, from Human Labor to LLMs"*\
 **09-2023** *Our paper, "Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections", recieved positive R&R notes for ICWSM 24. The resubmission will be in January, 2024.*\
 **05-2023** *Our paper, "A Weakly Supervised Classifier and Dataset of White Supremacist Language", was accepted at IEEE ACL*\
 **04-2023** *Presenting at ACM The Web conference, [CySoc] (https://cy-soc.github.io/2023/) workshop 2023, Austin, Texas. See you there.* \
@@ -26,4 +26,4 @@ My research endeavors are situated at the crossroads of Machine Learning and Soc
 **01-2023** *Our work "White Supremacist Language" is under review at ACL 2023.*\
 **10-2022** *I was invited to talk at CAH workshop at CMU.*\
 **09-2022** *I presented my work with CAH in Eradicate Hate Global Summit.*\
-**05-2022** *I joined Collaboratory Against Hate (CAH) as a Research Intern.*\
+**05-2022** *I joined Collaboratory Against Hate (CAH) as a Research Intern.*

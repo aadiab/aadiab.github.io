@@ -17,22 +17,22 @@ Check out [my Google Scholar](https://scholar.google.com/citations?user=Ig6OwEsA
 **Online to Offline Crossover of White Supremacist Propaganda**\
 **Ahmad Diab**, Bolor Jagdagdorj, Lynnette Ng, Yu-Ru Lin, Michael Yoder\
 *Cyber Social Threats, The Web Conference. 2023*\
-<span>paper</span> [pdf](files/CySoc23.pdf)
+<span>paper</span> [pdf](https://aadiab.github.io/files/CySoc23.pdf)
 
 **A Weakly Supervised Classifier and Dataset of White Supremacist Language**\
 Michael Yoder, **Ahmad Diab**, David West Brown, Kathleen M. Carley \
 *IEEE Association for Computational Linguistics, ACL. 2023*\
-<span>paper</span> [pdf](files/ACL_White_supremacist.pdf)
+<span>paper</span> [pdf](https://aadiab.github.io/files/ACL_White_supremacist.pdf)
 
 **The Spatiotemporal Reach of Hate Narratives**\
 **Ahmad Diab**, Michael Yoder, Yu-Ru Lin\
 *Eradicate Hate Global Summit. 2022*\
-<span>poster</span> [pdf](files/EHGS_poster.pdf)
+<span>poster</span> [pdf](https://aadiab.github.io/files/EHGS_poster.pdf)
 
 **Domain-robust VQA with diverse datasets and methods but no target labels**\
 Mingda Zhang, Tristan Maidment, **Ahmad Diab**, Adriana Kovashka, Rebecca Hwa\
 *CVPR. 2021*\
-<span>conference paper</span> [link](https://arxiv.org/abs/2103.15974v1) &middot; [pdf](files/VQA.pdf)
+<span>conference paper</span> [link](https://arxiv.org/abs/2103.15974v1) &middot; [pdf](https://aadiab.github.io/files/VQA.pdf)
 
 **Darkweb cyber threat intelligence mining**\
 John Robertson, **Ahmad Diab**, Ericsson Marin, Eric Nunes, Vivin Paliath, Jana Shakarian, Paulo Shakarian\
@@ -42,9 +42,9 @@ John Robertson, **Ahmad Diab**, Ericsson Marin, Eric Nunes, Vivin Paliath, Jana 
 **Product Offerings in Malicious Hacker Markets**\
 Ericsson Marin, **Ahmad Diab**, Paulo Shakarian\
 *IEEE International Conference on Intelligence and Security Informatics, ISI. 2016*\
-<span>conference paper</span> [link](https://arxiv.org/pdf/1607.07903.pdf) &middot; [pdf](files/product_offering.pdf)
+<span>conference paper</span> [link](https://arxiv.org/pdf/1607.07903.pdf) &middot; [pdf](https://aadiab.github.io/files/product_offering.pdf)
 
 **Darknet and Deepnet Mining for Proactive Cybersecurity Threat Intelligence**\
 Eric Nunes, **Ahmad Diab**, Andrew Gunn, Ericsson Marin , Vineet Mishra, Vivin Paliath, John Robertson, Jana Shakarian, Amanda Thart, Paulo Shakarian\
 *IEEE International Conference on Intelligence and Security Informatics: Cybersecurity and Big Data, ISI. 2016*\
-<span>conference paper</span> [link](https://arxiv.org/abs/1607.08583) &middot; [pdf](files/darknet_mining.pdf)
+<span>conference paper</span> [link](https://arxiv.org/abs/1607.08583) &middot; [pdf](https://aadiab.github.io/files/darknet_mining.pdf)
