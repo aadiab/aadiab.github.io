@@ -17,8 +17,8 @@ My research endeavors are situated at the crossroads of Machine Learning and Soc
 
 ## Recent News
 **Announcment** *I am currently seeking a summer internship for 2024*\
+**03-2024** *Our paper, "Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections", was accepted at [ICWSM 24](https://www.icwsm.org/2024/index.html/). See you in Buffalo.*\
 **11-2023** *I passed my Comprehensive Exam. The topic of my exam was "Ethical Considerations in CSS Research, from Human Labor to LLMs"*\
-**09-2023** *Our paper, "Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections", recieved positive R&R notes for ICWSM 24. The resubmission will be in January, 2024.*\
 **05-2023** *Our paper, "A Weakly Supervised Classifier and Dataset of White Supremacist Language", was accepted at IEEE ACL*\
 **04-2023** *Presenting at ACM The Web conference, [CySoc] (https://cy-soc.github.io/2023/) workshop 2023, Austin, Texas. See you there.* \
 **03-2023** *Our paper, "Online to Offline Crossover of White Supremacist Propaganda", was accepted at The Web Conference 2023.*\
