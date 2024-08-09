@@ -16,7 +16,7 @@ My research endeavors are situated at the crossroads of Machine Learning and Soc
 
 
 ## Recent News
-**Announcment** *I am currently seeking a summer internship for 2024*\
+**Announcment** *I am currently seeking a summer internship for 2025*\
 **03-2024** *Our paper, "Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections", was accepted at [ICWSM 24](https://www.icwsm.org/2024/index.html/). See you in Buffalo.*\
 **11-2023** *I passed my Comprehensive Exam. The topic of my exam was "Ethical Considerations in CSS Research, from Human Labor to LLMs"*\
 **05-2023** *Our paper, "A Weakly Supervised Classifier and Dataset of White Supremacist Language", was accepted at IEEE ACL*\
